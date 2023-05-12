@@ -1,5 +1,15 @@
 # @primer/css
 
+## 21.0.2
+
+### Patch Changes
+
+- [#2438](https://github.com/primer/css/pull/2438) [`abdb3a93`](https://github.com/primer/css/commit/abdb3a93f10705472cea773473eb3ada6b918d31) Thanks [@langermank](https://github.com/langermank)! - Add utility typography CSS vars to main bundle
+
+- [#2426](https://github.com/primer/css/pull/2426) [`713d9a59`](https://github.com/primer/css/commit/713d9a5921e565baf39fe522dfa73eb603b850e2) Thanks [@langermank](https://github.com/langermank)! - Add `mktg` CSS vars to PCSS
+
+- [#2430](https://github.com/primer/css/pull/2430) [`c415172f`](https://github.com/primer/css/commit/c415172fca56a7f22d21f66a79e49da7dd443f96) Thanks [@langermank](https://github.com/langermank)! - Remove duplicate `font-weight` fallbacks from utilities
+
 ## 21.0.1
 
 ### Patch Changes
